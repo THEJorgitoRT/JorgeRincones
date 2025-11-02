@@ -29,9 +29,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THEJorgitoRT&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THEJorgitoRT&layout=compact&theme=tokyonight)
 
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THEJorgitoRT&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THEJorgitoRT&layout=compact&theme=tokyonight)
 
 
 ### 📫 Cómo contactarme
