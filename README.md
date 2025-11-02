@@ -33,9 +33,7 @@
 
 ### 📫 Cómo contactarme
 
-📧 **jorge.rincones@example.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/jorge-rincones)  
-🌐 [Portafolio Web](https://jorgerincones.github.io)
+📧 **rinconestorresjorgearmando@example.com**  
 
 ---
 
