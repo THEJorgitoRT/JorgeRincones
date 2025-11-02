@@ -36,7 +36,8 @@
 
 ### 🧩 En progreso
 - Mejorando mis habilidades en **simulación física** y **desarrollo de videojuegos**  
-- Aprendiendo **metodologías ágiles (AUP, DevOps, Lean Six Sigma)**  
+- Aprendiendo **metodologías ágiles (AUP, DevOps, Lean Six Sigma)**
+- ![Trophies](https://github-profile-trophy.vercel.app/?username=THEJorgitoRT&theme=tokyonight&no-frame=true)
 
 ---
 
