@@ -42,9 +42,8 @@
 
 ### 🌐 Contacto
 
-📧 **jorge.rincones@example.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/jorge-rincones)  
-🌍 [Portafolio](https://jorgerincones.github.io)
+📧 **rinconestorresjorgearmando@gmail.com**    
+🌍 [Portafolio](https://THEJorgitoRT.github.io)
 
 ---
 
