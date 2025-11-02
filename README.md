@@ -43,7 +43,6 @@
 ### 🌐 Contacto
 
 📧 **rinconestorresjorgearmando@gmail.com**    
-🌍 [Portafolio](https://THEJorgitoRT.github.io)
 
 ---
 
