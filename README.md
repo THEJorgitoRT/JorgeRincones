@@ -18,8 +18,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THEJorgitoRT&show_icons=true&theme=tokyonight&count_private=true" height="165em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEJorgitoRT&layout=compact&theme=tokyonight" height="165em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=THEJorgitoRT&show_icons=true&theme=tokyonight&count_private=true" height="165em"&cache_seconds=1800/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEJorgitoRT&layout=compact&theme=tokyonight" height="165em"&cache_seconds=1800/>
 </p>
 
 ---
