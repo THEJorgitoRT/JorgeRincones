@@ -42,7 +42,8 @@
 
 ### 🌐 Contacto
 
-📧 **rinconestorresjorgearmando@gmail.com**    
+📧 **rinconestorresjorgearmando@gmail.com**
+📞 **3135742932**
 
 ---
 ![Trophies](https://github-profile-trophy.vercel.app/?username=THEJorgitoRT&theme=tokyonight&no-frame=true)
