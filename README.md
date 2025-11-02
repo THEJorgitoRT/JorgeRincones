@@ -31,6 +31,8 @@
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeRincones&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRincones&layout=compact&theme=tokyonight)
+
 
 ### 📫 Cómo contactarme
 
